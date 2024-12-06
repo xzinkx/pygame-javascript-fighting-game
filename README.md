@@ -1,2 +1,2 @@
-# pygame_javascript_fighting_game
+# pygame-javascript-fighting-game
 Pygame Implementation of Chris Courses' 'JavaScript Fighting Game Tutorial with HTML Canvas'
